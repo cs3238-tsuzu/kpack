@@ -10,7 +10,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.1.0
 	github.com/buildpacks/imgutil v0.0.0-20200313170640-a02052f47d62
 	github.com/buildpacks/lifecycle v0.7.5
-	github.com/go-openapi/spec v0.19.7
+	github.com/go-openapi/spec v0.19.8
 	github.com/google/go-cmp v0.4.0
 	github.com/google/go-containerregistry v0.0.0-20200430153450-5cbd060f5c92
 	github.com/googleapis/gnostic v0.3.1 // indirect
